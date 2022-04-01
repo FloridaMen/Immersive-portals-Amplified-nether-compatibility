@@ -1,0 +1,1 @@
+execute at @a run execute in minecraft:the_nether run fill ~50 255 ~50 ~-50 255 ~-50 void_air
