@@ -1,2 +1,0 @@
-scoreboard objectives add portalAligner dummy
-function dimension_stacker:repeat
