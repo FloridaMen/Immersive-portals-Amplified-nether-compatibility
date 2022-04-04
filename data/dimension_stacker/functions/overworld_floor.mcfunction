@@ -1,6 +1,6 @@
 tellraw @a "DimensionStacker has loaded."
 
-gamemode @a spectator
+gamemode spectator @a
 
 execute as @r run scoreboard players set repeatDummy portalAligner 1
 
