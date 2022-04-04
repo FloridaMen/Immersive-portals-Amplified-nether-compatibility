@@ -2,3 +2,4 @@ tellraw @a "If the nether does not properly connect to the overworld, please run
 scoreboard objectives add portalAligner dummy
 function dimension_stacker:repeat
 schedule function dimension_stacker:repeat 10s append
+function dimension_stacker:break
