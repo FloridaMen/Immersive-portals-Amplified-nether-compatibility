@@ -4,5 +4,5 @@ execute as @a run portal global convert_normal_portal_to_global_portal
 
 tp @a @e[limit=1,tag=spawnTp]
 kill @e[tag=spawnTp]
-gamemode @a survival														 
+gamemode survival @a														 
 scoreboard players set portalDummy portalAligner 1
