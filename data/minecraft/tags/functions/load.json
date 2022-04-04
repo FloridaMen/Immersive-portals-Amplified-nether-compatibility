@@ -1,6 +1,5 @@
 {
 	"values": [
-	"dimension_stacker:load",
-	"dimension_stacker:break"
+	"dimension_stacker:load"
 	]
 }
